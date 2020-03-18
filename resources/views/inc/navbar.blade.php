@@ -15,9 +15,9 @@
             </ul>
 
             <ul class="nav navbar-nav">
-              <li><a href="/">Home</a></li>
-              
-              
+                <li><a href="/">Home</a></li>
+                <li><a href="/posts/create">Create Post</a></li>
+                <li><a href="/posts">Blog</a></li>
             </ul>
             
             <!-- Right Side Of Navbar -->
