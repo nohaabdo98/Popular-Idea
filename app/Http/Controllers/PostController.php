@@ -51,7 +51,6 @@ class PostController extends Controller
             'title' => 'required',
             'body' => 'required',
         ]);
-        
         //create post
         $post = new Post;
         $post->title = $request->input('title');
